@@ -64,7 +64,7 @@ const members = [
   },
   {
     name: "Ahmad Alzhrani",
-    image: "https://via.placeholder.com/150?text=Ahmad+Alzhrani",
+    image: "/images/Ahmad.jpg",
     major: "Computer Engineering",
     degree: "Bachelor",
     startingYear: 2019,
