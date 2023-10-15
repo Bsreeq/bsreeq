@@ -1,7 +1,7 @@
 const members = [
   {
     name: "Faisal Alali",
-    image: "https://via.placeholder.com/150?text=Faisal+Alali",
+    image: "/images/faisal.png",
     major: "Computer Science",
     degree: "Bachelor",
     startingYear: 2018,
@@ -15,7 +15,7 @@ const members = [
   },
   {
     name: "Tarek Aljawi",
-    image: "https://via.placeholder.com/150?text=Tarek+Aljawi",
+    image: "/images/tarek.jpg",
     major: "Software Engineering",
     degree: "Bachelor",
     startingYear: 2018,
@@ -29,7 +29,7 @@ const members = [
   },
   {
     name: "Abdulkarim Alsurki",
-    image: "https://via.placeholder.com/150?text=Abdulkarim+Alsurki",
+    image: "/images/kareem.jpg",
     major: ".",
     degree: ".",
     startingYear: 2019,
@@ -50,7 +50,7 @@ const members = [
   },
   {
     name: "Abdulrahman Azhar",
-    image: "https://via.placeholder.com/150?text=Abdulrahman+Azhar",
+    image: "/images/azhr.jpg",
     major: "Software Engineering",
     degree: "Bachelor",
     startingYear: 2018,
@@ -85,14 +85,14 @@ const members = [
   },
   {
     name: "Faisal Hijazi",
-    image: "https://via.placeholder.com/150?text=Faisal+Hijazi",
+    image: "/images/hijazi.jpg",
     major: "Computer Engineering",
     degree: "Bachelor",
     startingYear: 2017,
   },
   {
     name: "Hassan Alobaid",
-    image: "https://via.placeholder.com/150?text=Hassan+Alobaid",
+    image: "/images/hasan.jpg",
     major: "Computer Science",
     degree: "Bachelor",
     startingYear: 2019,
@@ -113,7 +113,7 @@ const members = [
   },
   {
     name: "Miraan Alkatib",
-    image: "https://via.placeholder.com/150?text=Miraan+Alkatib",
+    image: "/images/miran.jpg",
     major: "Computer Engineering",
     degree: "Bachelor",
     startingYear: 2018,
@@ -141,28 +141,28 @@ const members = [
   },
   {
     name: "Osama Bamardouf",
-    image: "https://via.placeholder.com/150?text=Osama+Bamardouf",
+    image: "/images/osama.png",
     major: "Management Information Systems",
     degree: "Bachelor",
     startingYear: 2018,
   },
   {
     name: "Raiyan Banjer",
-    image: "https://via.placeholder.com/150?text=Raiyan+Banjer",
+    image: "/images/ryan.jpg",
     major: "Software Engineering",
     degree: "Bachelor",
     startingYear: 2018,
   },
   {
     name: "Rashed Almani",
-    image: "https://via.placeholder.com/150?text=Rashed+Almani",
+    image: "/images/rashed.jpg",
     major: "Software Engineering",
     degree: "Bachelor",
     startingYear: 2020,
   },
   {
     name: "Redha Kattoa",
-    image: "https://via.placeholder.com/150?text=Redha+Kattoa",
+    image: "/images/redha.jpg",
     major: "Management Information Systems",
     degree: "Bachelor",
     startingYear: 2016,
