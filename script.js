@@ -43,7 +43,7 @@ const members = [
   },
   {
     name: "Abdulmohsen Bin Rasheed",
-    image: "https://via.placeholder.com/150?text=Abdulmohsen+Bin+Rasheed",
+    image: "/images/rasheed.jpg",
     major: "Aerospace Engineering",
     degree: "Bachelor",
     startingYear: 2019,
