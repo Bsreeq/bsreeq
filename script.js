@@ -193,7 +193,7 @@ const members = [
     image: "/images/Ryan angelo.JPG",
     major: "Chemical Engineering",
     degree: "Bachelor",
-    startingYear: 2022,
+    startingYear: 2021,
   },
   {
     name: "Salem Al-Saqaf",
