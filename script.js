@@ -106,7 +106,7 @@ const members = [
   },
   {
     name: "Mansour Alsharif",
-    image: "https://via.placeholder.com/150?text=Mansour+Alsharif",
+    image: "/images/mansour clone.jpg",
     major: "Geophysics",
     degree: "Bachelor",
     startingYear: 2018,
@@ -148,7 +148,7 @@ const members = [
   },
   {
     name: "Raiyan Banjer",
-    image: "/images/ryan.jpg",
+    image: "/images/raiyan banjer.png",
     major: "Software Engineering",
     degree: "Bachelor",
     startingYear: 2018,
